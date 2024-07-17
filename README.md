@@ -70,3 +70,11 @@ Explored testing methodologies and debugging techniques. Learn about how to impr
 **Implementation:**
 
 Conducted thorough testing of all modules to identify and fix bugs. Tested the website on mobile to indentify and fix bugs. And also optimize performance of lighthouse.
+
+## **🌟 Summary**
+Throughout the internship, I successfully completed multiple modules of the hostel management website, demonstrated proficiency in web development, user interface design, and collaborative project execution, and gained valuable experience in developing user-centric applications. This detailed breakdown showcases my ability to manage and execute multiple projects efficiently, along with continuous learning and application of new skills.
+
+## **🤝 Connect with Me**
+Email: [kiranbaraiya0308@gmail.com]
+
+Thank you for visiting my project! Feel free to reach out if you have any questions or feedback. ✨
