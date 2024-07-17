@@ -61,3 +61,12 @@ Studied about requirements and details of student assets. Explored techniques fo
 **Implementation:**
 
 Developed the assets module to track hostel assets. Added features for adding, updating, and deleting asset information.
+
+## **Week 7: Testing and Optimize Performance**
+**Learning and Exploration:**
+
+Explored testing methodologies and debugging techniques. Learn about how to improve performance of lighthouse.
+
+**Implementation:**
+
+Conducted thorough testing of all modules to identify and fix bugs. Tested the website on mobile to indentify and fix bugs. And also optimize performance of lighthouse.
