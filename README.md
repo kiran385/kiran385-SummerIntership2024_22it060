@@ -26,7 +26,7 @@ Familiarized with the development environment and tools. Studied project require
 
 Set up the development environment. Created initial project documentation. Review code of project and make changes accordingly.
 
-## **Week 2: Development of Food Modules**
+## **Week 3: Development of Food Modules**
 **Learning and Exploration:**
 
 Studied about bootstrap for better page design and also explore jQuery validation implementation.
@@ -34,3 +34,13 @@ Studied about bootstrap for better page design and also explore jQuery validatio
 **Implementation:**
 
 Created food menu view page and food menu update page using CSS and bootstrap. Add jQuery validation in update model.
+
+## **Week 4: Development of Income Expense Modules**
+**Learning and Exploration:**
+
+Studied methods for creating and managing dynamic content. Explored techniques for developing income expense module.
+
+**Implementation:**
+
+Created manager income expense page. Add update model for changing data of income expense. And also add jQuery validation.
+
