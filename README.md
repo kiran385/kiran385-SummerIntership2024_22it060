@@ -44,3 +44,11 @@ Studied methods for creating and managing dynamic content. Explored techniques f
 
 Created manager income expense page. Add update model for changing data of income expense. And also add jQuery validation.
 
+## **Week 5: Development of Query Modules**
+**Learning and Exploration:**
+
+Studied methods for creating and managing user requests. Explored techniques for developing query module.
+
+**Implementation:**
+
+Created the queries module to manage student and staff queries. Added functionality for submitting, viewing, and responding to queries. 
