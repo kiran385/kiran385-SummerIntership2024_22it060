@@ -26,7 +26,7 @@ Familiarized with the development environment and tools. Studied project require
 
 Set up the development environment. Created initial project documentation. Review code of project and make changes accordingly.
 
-## **Week 3: Development of Food Modules**
+## **Week 3: Development of Food Module**
 **Learning and Exploration:**
 
 Studied about bootstrap for better page design and also explore jQuery validation implementation.
@@ -35,7 +35,7 @@ Studied about bootstrap for better page design and also explore jQuery validatio
 
 Created food menu view page and food menu update page using CSS and bootstrap. Add jQuery validation in update model.
 
-## **Week 4: Development of Income Expense Modules**
+## **Week 4: Development of Income Expense Module**
 **Learning and Exploration:**
 
 Studied methods for creating and managing dynamic content. Explored techniques for developing income expense module.
@@ -44,7 +44,7 @@ Studied methods for creating and managing dynamic content. Explored techniques f
 
 Created manager income expense page. Add update model for changing data of income expense. And also add jQuery validation.
 
-## **Week 5: Development of Query Modules**
+## **Week 5: Development of Query Module**
 **Learning and Exploration:**
 
 Studied methods for creating and managing user requests. Explored techniques for developing query module.
@@ -52,3 +52,12 @@ Studied methods for creating and managing user requests. Explored techniques for
 **Implementation:**
 
 Created the queries module to manage student and staff queries. Added functionality for submitting, viewing, and responding to queries. 
+
+## **Week 6: Development of Asset Module**
+**Learning and Exploration:**
+
+Studied about requirements and details of student assets. Explored techniques for integrating data display and management.
+
+**Implementation:**
+
+Developed the assets module to track hostel assets. Added features for adding, updating, and deleting asset information.
