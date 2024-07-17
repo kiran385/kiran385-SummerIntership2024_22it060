@@ -25,3 +25,12 @@ Familiarized with the development environment and tools. Studied project require
 **Implementation:**
 
 Set up the development environment. Created initial project documentation. Review code of project and make changes accordingly.
+
+## **Week 2: Development of Food Modules**
+**Learning and Exploration:**
+
+Studied about bootstrap for better page design and also explore jQuery validation implementation.
+
+**Implementation:**
+
+Created food menu view page and food menu update page using CSS and bootstrap. Add jQuery validation in update model.
